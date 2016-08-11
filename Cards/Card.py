@@ -1,8 +1,8 @@
 '''Card.py - Contains classes for cards. Currently, the only class
 of cards modeled is Playing Cards'''
 
-from sys import path
-path.append('/Users/gregorysun/Documents/python')
+#from sys import path
+#path.append('/Users/gregorysun/Documents/python')
 
 import Cards.Shuffle as sh
 
