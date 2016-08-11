@@ -1,8 +1,8 @@
 '''Game.py - a demonstration of the Cards package by implementing
 a console solitare game'''
 
-from sys import path
-path.append('/Users/gregorysun/Documents/python')
+#from sys import path
+#path.append('/Users/gregorysun/Documents/python')
 
 from Cards.Shuffle import realistic_shuffle
 from Cards.Card import PlayingCard, StandardDeck
