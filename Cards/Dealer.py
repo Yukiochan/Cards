@@ -1,8 +1,8 @@
 '''Dealer.py - implements the dealer class'''
 
 
-from sys import path
-path.append('/Users/gregorysun/Documents/python')
+#from sys import path
+#path.append('/Users/gregorysun/Documents/python')
 
 from Cards.Shuffle import realistic_shuffle
 from Cards.Card import StandardDeck, PlayingCard
