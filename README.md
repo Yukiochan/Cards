@@ -4,6 +4,7 @@ A Python card game package
 Contents:
 
 Cards:
+
 --Shuffle.py - a realistic shuffling package that simulates the actual shuffling process instead of uses a simple RNG
 
 --Cards.py - containst definitions for various card classes. Currently, PlayingCard is the only class defined
